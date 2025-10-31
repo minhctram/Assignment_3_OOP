@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\bin\Debug\net9.0\BallProblem.exe
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\bin\Debug\net9.0\BallProblem.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\bin\Debug\net9.0\BallProblem.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\bin\Debug\net9.0\BallProblem.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\bin\Debug\net9.0\BallProblem.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\obj\Debug\net9.0\BallProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\obj\Debug\net9.0\BallProblem.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\obj\Debug\net9.0\BallProblem.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\obj\Debug\net9.0\BallProblem.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\obj\Debug\net9.0\BallProblem.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\obj\Debug\net9.0\refint\BallProblem.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\obj\Debug\net9.0\BallProblem.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\obj\Debug\net9.0\BallProblem.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\BallProblem\obj\Debug\net9.0\ref\BallProblem.dll

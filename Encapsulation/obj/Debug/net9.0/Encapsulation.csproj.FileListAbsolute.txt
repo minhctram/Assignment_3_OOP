@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll

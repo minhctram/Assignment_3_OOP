@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\bin\Debug\net9.0\NumberSix.exe
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\bin\Debug\net9.0\NumberSix.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\bin\Debug\net9.0\NumberSix.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\bin\Debug\net9.0\NumberSix.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\bin\Debug\net9.0\NumberSix.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\obj\Debug\net9.0\NumberSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\obj\Debug\net9.0\NumberSix.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\obj\Debug\net9.0\NumberSix.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\obj\Debug\net9.0\NumberSix.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\obj\Debug\net9.0\NumberSix.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\obj\Debug\net9.0\refint\NumberSix.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\obj\Debug\net9.0\NumberSix.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\obj\Debug\net9.0\NumberSix.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\NumberSix\obj\Debug\net9.0\ref\NumberSix.dll

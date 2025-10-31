@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\bin\Debug\net9.0\ReverseArray.exe
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\bin\Debug\net9.0\ReverseArray.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\bin\Debug\net9.0\ReverseArray.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\bin\Debug\net9.0\ReverseArray.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\bin\Debug\net9.0\ReverseArray.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\obj\Debug\net9.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\obj\Debug\net9.0\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\obj\Debug\net9.0\ReverseArray.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\obj\Debug\net9.0\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\obj\Debug\net9.0\ReverseArray.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\obj\Debug\net9.0\refint\ReverseArray.dll
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\obj\Debug\net9.0\ReverseArray.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\obj\Debug\net9.0\ReverseArray.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment3\ReverseArray\obj\Debug\net9.0\ref\ReverseArray.dll
